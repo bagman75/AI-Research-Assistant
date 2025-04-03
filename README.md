@@ -1,2 +1,2 @@
 # AI-Research-Assistant
-The Launch of Very cool Research Agent
+Local voice-based AI assistant with web search & summarization
